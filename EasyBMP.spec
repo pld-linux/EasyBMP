@@ -11,6 +11,7 @@ Source0:	http://dl.sourceforge.net/easybmp/%{name}_%{version}.zip
 Source1:	http://dl.sourceforge.net/easybmp/%{name}_Documentation_%{dver}.zip
 # Source1-md5:	99dea20d75bd55557a1817178aab58b8
 URL:		http://easybmp.sourceforge.net/
+BuildRequires:	unzip
 BuildArch:	noarch
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
