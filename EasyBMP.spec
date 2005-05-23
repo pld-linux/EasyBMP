@@ -21,7 +21,7 @@ Easy to use library for BMP file format handling.
 £atwa w u¿yciu biblioteka do obs³ugi formatu BMP.
 
 %prep
-%setup -q -c %{name}-%{version} -a 1
+%setup -q -c -a 1
 
 %build
 
