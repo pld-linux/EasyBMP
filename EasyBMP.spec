@@ -24,8 +24,6 @@ Easy to use library for BMP file format handling.
 %prep
 %setup -q -c -a 1
 
-%build
-
 %install
 rm -rf $RPM_BUILD_ROOT
 
