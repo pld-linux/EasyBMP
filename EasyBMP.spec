@@ -7,9 +7,9 @@ License:	LGPL
 Group:		Libraries
 %define		dver 0.61
 Source0:	http://dl.sourceforge.net/easybmp/%{name}_%{version}.zip
-# Source0-md5:	32e42f5b407a1b208e49075d0256909f
+# Source0-md5:	6ee0d57e78ef36f9e5be94f30302706e
 Source1:	http://dl.sourceforge.net/easybmp/%{name}_Documentation_%{dver}.zip
-# Source1-md5:	99dea20d75bd55557a1817178aab58b8
+# Source1-md5:	5d1f19eaa6154b867f3a7ad96af49445
 URL:		http://easybmp.sourceforge.net/
 BuildRequires:	unzip
 BuildArch:	noarch
