@@ -1,11 +1,11 @@
 Summary:	EasyBMP library
 Summary(pl):	Biblioteka EasyBMP
 Name:		EasyBMP
-Version:	0.61
+Version:	0.62
 Release:	1
 License:	LGPL
 Group:		Libraries
-%define		dver 0.57b
+%define		dver 0.61
 Source0:	http://dl.sourceforge.net/easybmp/%{name}_%{version}.zip
 # Source0-md5:	32e42f5b407a1b208e49075d0256909f
 Source1:	http://dl.sourceforge.net/easybmp/%{name}_Documentation_%{dver}.zip
