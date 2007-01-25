@@ -1,13 +1,13 @@
 Summary:	EasyBMP library
 Summary(pl):	Biblioteka EasyBMP
 Name:		EasyBMP
-Version:	1.00
+Version:	1.06
 Release:	1
 License:	BSD
 Group:		Libraries
 %define		dver 1.00.00
 Source0:	http://dl.sourceforge.net/easybmp/%{name}_%{version}.zip
-# Source0-md5:	5f8fdeb7471ba62bf249520a6325c9bd
+# Source0-md5:	c2d547a6574fd31a62df5e82783d342d
 Source1:	http://dl.sourceforge.net/easybmp/%{name}_Documentation_%{dver}.zip
 # Source1-md5:	9b9f50c20b07bdeb5f38fd23326cf31c
 URL:		http://easybmp.sourceforge.net/
