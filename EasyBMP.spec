@@ -1,5 +1,5 @@
 Summary:	EasyBMP library
-Summary(pl):	Biblioteka EasyBMP
+Summary(pl.UTF-8):   Biblioteka EasyBMP
 Name:		EasyBMP
 Version:	1.06
 Release:	1
@@ -18,8 +18,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 Easy to use library for BMP file format handling.
 
-%description -l pl
-£atwa w uøyciu biblioteka do obs≥ugi formatu BMP.
+%description -l pl.UTF-8
+≈Åatwa w u≈ºyciu biblioteka do obs≈Çugi formatu BMP.
 
 %prep
 %setup -q -c -a 1
