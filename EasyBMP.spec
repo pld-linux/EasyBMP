@@ -1,5 +1,5 @@
 Summary:	EasyBMP library
-Summary(pl.UTF-8):   Biblioteka EasyBMP
+Summary(pl.UTF-8):	Biblioteka EasyBMP
 Name:		EasyBMP
 Version:	1.06
 Release:	1
